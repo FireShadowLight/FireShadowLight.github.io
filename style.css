@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   background-color: antiquewhite;
 }
@@ -30,36 +29,3 @@ img {
     background-color: powderblue;
   }
 }
-=======
-body {
-  background-color: antiquewhite;
-}
-
-img {
-  height: 180px;
-  margin: auto;
-  display: block;
-}
-
-#myInfo {
-  color: orangered;
-  text-align: center;
-}
-
-.row {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-
-.column {
-  flex: 50%;
-}
-
-/* On screens that are 600px or less, set the background color to powderblie */
-@media screen and (max-width: 600px) {
-  body {
-    background-color: powderblue;
-  }
-}
->>>>>>> 0e42d355b18d67f5a77bc2831a08cdffc9cf98da
